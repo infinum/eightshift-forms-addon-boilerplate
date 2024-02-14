@@ -55,6 +55,6 @@ class Main extends AbstractMain
 	 */
 	public function checkAddonPluginsNotice(): void
 	{
-		UtilsMain::checkAddonPluginsNotice(\esc_html__('Boilerplate', 'eightshift-forms-addon-boilerplate'));
+		UtilsMain::checkAddonPluginsNotice(\esc_html__('Addon Boilerplate', 'eightshift-forms-addon-boilerplate'));
 	}
 }
