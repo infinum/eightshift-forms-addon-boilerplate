@@ -22,7 +22,6 @@ class Filters
 	 */
 	public static function getPublicFilters(): array
 	{
-		return [
-		];
+		return [];
 	}
 }
