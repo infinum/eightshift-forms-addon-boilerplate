@@ -1,0 +1,8 @@
+# Project Specific
+/public
+/vendor
+/vendor-prefixed
+/node_modules
+/.vscode
+/release.zip
+/eightshift-forms-addon-boilerplate
